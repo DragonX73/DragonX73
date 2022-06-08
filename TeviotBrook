@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T06:19:07.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="U2sUrNXe1sDkqARWhz4R" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-08T01:44:58.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="plomgtZ5xGWxSTtxwUHX" version="19.0.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1170" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2020" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,6 +69,18 @@
         </mxCell>
         <mxCell id="_2cH2aVoLPE9haltH-xi-24" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;OFM Application" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
           <mxGeometry x="1450" y="230.79" width="80" height="108.42" as="geometry" />
+        </mxCell>
+        <mxCell id="_2cH2aVoLPE9haltH-xi-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" edge="1" parent="1" source="_2cH2aVoLPE9haltH-xi-26" target="_2cH2aVoLPE9haltH-xi-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2cH2aVoLPE9haltH-xi-26" value="&lt;br&gt;&lt;br&gt;Teviot Brook&lt;br&gt;Anglo American&lt;br&gt;&lt;br&gt;&lt;br&gt;IOT Device&lt;br&gt;for&lt;br&gt;WELLS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.generic;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="255" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_2cH2aVoLPE9haltH-xi-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="_2cH2aVoLPE9haltH-xi-27" target="_2cH2aVoLPE9haltH-xi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2cH2aVoLPE9haltH-xi-27" value="&lt;br&gt;&lt;br&gt;Anglo American&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&quot;GlobalLink Instance&quot;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.central_administration_site_sql" vertex="1" parent="1">
+          <mxGeometry x="-120" y="245" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
