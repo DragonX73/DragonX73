@@ -1,4 +1,4 @@
-<mxfile modified="2022-06-14T06:22:56.512Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="KERcgZBsySloX-psHgzK" version="20.0.1" type="github">
+<mxfile modified="2022-06-14T07:10:19.282Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="GLwqW7RvRN7JXnbywk5w" version="20.0.1" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="2831" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry x="320" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LR5CnvMRuR8SVS1PYUcT-7" value="MOA/COi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5" y="10" width="990" height="60" as="geometry" />
+          <mxGeometry x="-10" y="10" width="990" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LR5CnvMRuR8SVS1PYUcT-8" value="0d" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LR5CnvMRuR8SVS1PYUcT-3" target="LR5CnvMRuR8SVS1PYUcT-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LR5CnvMRuR8SVS1PYUcT-12" value="SharePoint" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="250" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LR5CnvMRuR8SVS1PYUcT-17" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
           <mxGeometry x="870" y="343.5" width="60" height="36.5" as="geometry" />
